@@ -1,0 +1,22 @@
+name: english_phrases
+description: Provides list of useful English phrases by category
+version: 0.0.1
+homepage: https://github.com/sergfa/english_phrases
+repository: https://github.com/sergfa/english_phrases
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  meta: ^1.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  #assets:
+  #   - packages/english_phrases/assets/data/phrases.json
+
+  
